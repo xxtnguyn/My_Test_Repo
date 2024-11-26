@@ -1,3 +1,15 @@
+diff --git a/README.md b/README.md
+index 737e8d7..bc25991 100644
+--- a/README.md
++++ b/README.md
+@@ -3,4 +3,4 @@
+ 
+ Hellox!
+ hello again!
+-nguyen was here!
+\ No newline at end of file
++oke chua?
+\ No newline at end of file
 diff --git a/test.patch b/test.patch
 index a37ed1b..e69de29 100644
 --- a/test.patch
